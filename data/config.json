@@ -1,0 +1,4 @@
+{ buttons: [{ id: 1, relayId: "26", display: "Switch 1" }, { id: 2, 
+relayId: "27", display: "Switch 2 \n Turns on the TV, Music System and 
+PS4" }, { id: 3, relayId: "25", display: "Switch 3 \n NA" }, { id: 4, 
+relayId: "33", display: "Switch 4" } ] }

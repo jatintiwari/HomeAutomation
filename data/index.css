@@ -1,0 +1,36 @@
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+} 
+.buttons-container {
+  width: 80vw;
+  border-radius: 5px;
+  background-color: #E4E4E4;
+}
+
+.button-container {
+  padding: 1em;
+  width: 100%;
+}
+
+.button {
+  color: white;
+	width: 100%;
+  font-size: 16px; 
+  border: none;
+  padding: 3em;
+  border-radius: 20px;
+}
+
+.button.on {
+  border: 1px solid #ee0f0f;
+  box-shadow: 1px 3px 5px #f40a0d;
+  background-color: #5c9cfc;
+}
+
+.button.off {
+  box-shadow: 1px 3px 5px #04fc04;
+  background-color: #54cc7c;
+}
